@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Plate
+comment0.text=\r\n\ An\ object\ that\ holds\ the\ soup\ and\ allows\ it\ to\ be\ served\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ takeSoup()
+comment3.params=
+comment3.target=boolean\ getOnionSoup()
+comment4.params=
+comment4.target=boolean\ getTomatoSoup()
+numComments=5

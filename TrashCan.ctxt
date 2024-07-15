@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TrashCan
+comment0.text=\r\n\ Allows\ the\ user\ to\ throw\ away\ any\ unnecessary\ food\ that\ the\ player\r\n\ wishes\ to\ dispose\ of.\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ throwAway()
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Star
+comment0.text=\r\n\ Used\ to\ show\ stars\ at\ the\ end\ of\ the\ game\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

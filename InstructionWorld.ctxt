@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InstructionWorld
+comment0.text=\r\n\ This\ World\ informs\ the\ user\ about\ the\ instructions\ fot\ the\ game\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=InstructionWorld()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

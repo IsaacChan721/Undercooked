@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Inventory
+comment0.text=\r\n\ Stores\ whatever\ food\ object\ the\ player\ holds\ into\ the\ inventory\ in\ order\r\n\ to\ be\ placed\ somewhere\ else\ into\ the\ world.\r\n\ \r\n\ @author\ Isaac\ Chan\ \r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=Inventory()
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ drawInventory()
+comment3.params=item\ counterTop\ playerX\ playerY\ rotation\ reach
+comment3.target=void\ inventorySlot(greenfoot.Actor,\ greenfoot.Actor,\ int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=int\ getWidth()
+comment5.params=
+comment5.target=int\ getHeight()
+comment6.params=
+comment6.target=boolean\ isInventoryFull()
+numComments=7

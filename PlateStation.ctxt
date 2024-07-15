@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlateStation
+comment0.text=\r\n\ The\ station\ that\ the\ player\ uses\ in\ order\ to\ gather\ plates\ which\ hold\r\n\ the\ soup\ that\ the\ player\ needs\ to\ serve.\ It\ can\ only\ generate\ a\ total\ \r\n\ of\ two\ plates\ in\ the\ world.\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ spawnPlate()
+comment3.params=platesReturned
+comment3.target=void\ setPlates(int)
+numComments=4

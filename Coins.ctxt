@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Coins
+comment0.text=\r\n\ This\ actor\ stores\ all\ the\ coins\ earned\ throughout\ the\ game\ and\ displays\r\n\ the\ total\ coins\ earned\ using\ the\ label\ constructed\ into\ the\ world\r\n\ \r\n\ @author\ Isaac\ Chan\ \r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=coins
+comment2.target=void\ earnCoins(int)
+comment3.params=
+comment3.target=int\ getCoins()
+numComments=4

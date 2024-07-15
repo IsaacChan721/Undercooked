@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ This\ actor\ is\ the\ one\ that\ the\ player\ controls.\ It\ is\ able\ to\ pick\ up\r\n\ objects,\ put\ them\ down\ and\ interact\ with\ the\ various\ stations\ placed\ \r\n\ around\ the\ world.\r\n\ Credit\ to\ Nathan\ Jiang\ for\ the\ directionX()\ and\ directionY()\ methods\r\n\ \r\n\ @author\ Isaac\ Chan\ \r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=inventory
+comment1.target=Player(Inventory)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ playerMovement()
+comment4.params=
+comment4.target=void\ useInventory()
+comment5.params=
+comment5.target=void\ collisionDetection()
+comment6.params=
+comment6.target=Food\ findFood()
+comment7.params=
+comment7.target=double\ directionX()
+comment8.params=
+comment8.target=double\ directionY()
+numComments=9

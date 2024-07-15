@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OnionSupply
+comment0.text=\r\n\ Supplies\ the\ onions\ for\ the\ player\ to\ collect\ when\ interacting\ with\ \r\n\ this\ actor.\ Generates\ an\ infinite\ amount\ of\ onions\ for\ the\ player's\ \r\n\ usage.\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 20222\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ spawnOnion()
+numComments=3

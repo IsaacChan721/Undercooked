@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ A\ general\ class\ that\ shares\ a\ few\ methods\ and\ variables\ that\ all\ food\r\n\ possess.\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ chopFood()
+comment3.params=counter
+comment3.target=boolean\ choppingOnCuttingBoard(Counter)
+comment4.params=
+comment4.target=boolean\ hasBeenCut()
+numComments=5

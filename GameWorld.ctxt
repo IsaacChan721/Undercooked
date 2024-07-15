@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\r\n\ This\ world\ is\ where\ most\ of\ this\ game\ takes\ place.\ Simaler\ to\ Overcooked\!\r\n\ This\ world\ requires\ the\ player\ to\ complete\ a\ set\ of\ tasks\ in\ order\ to\ \r\n\ earn\ the\ highest\ number\ of\ coins\ possible.\r\n\ Credit\ to\ Mr.\ Cohen\ for\ the\ Label\ actor\r\n\ Credit\ to\ Overcooked\ for\ the\ background\ music\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=GameWorld()
+comment3.params=
+comment3.target=void\ worldBuild()
+comment4.params=
+comment4.target=void\ addOrders()
+comment5.params=
+comment5.target=void\ worldTimer()
+comment6.params=
+comment6.target=java.util.ArrayList\ getOrderList()
+comment7.params=
+comment7.target=Label\ getCoinLabel()
+comment8.params=
+comment8.target=int\ getGrid()
+numComments=9

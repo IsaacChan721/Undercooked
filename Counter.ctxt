@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ This\ Actor\ is\ a\ general\ actor\ to\ store\ all\ properties\ that\ Counters\r\n\ hold\ such\ as\ stat\ bar\ variables\ or\ food\ actors\ which\ have\ been\ found.\r\n\ \r\n\ @author\ Isaac\ Chan\ \r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=boolean\ touchingPlayer()
+comment2.params=
+comment2.target=boolean\ touchingFood()
+comment3.params=
+comment3.target=int\ getCurrVal()
+numComments=4

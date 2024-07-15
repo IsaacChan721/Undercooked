@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Order
+comment0.text=\r\n\ Creates\ new\ orders\ for\ the\ player\ to\ complete\ in\ order\ to\ earn\ coins.\r\n\ Credit\ to\ Mr.\ Cohen\ for\ the\ stat\ bar\ actor\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=Order()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ orderTimer()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ randomSoup()
+comment6.params=
+comment6.target=boolean\ getOnionOrder()
+comment7.params=
+comment7.target=boolean\ getTomatoOrder()
+comment8.params=
+comment8.target=int\ getCurrVal()
+numComments=9

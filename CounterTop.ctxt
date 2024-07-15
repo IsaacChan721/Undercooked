@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CounterTop
+comment0.text=\r\n\ Constructs\ the\ image\ of\ a\ counter\ top,\ it\ does\ pretty\ much\ nothing\r\n\ \r\n\ @author\ Isaac\ Chan\ \r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=CounterTop()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

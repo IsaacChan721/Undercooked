@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameOverWorld
+comment0.text=\r\n\ The\ world\ that\ shows\ up\ at\ the\ end\ and\ also\ shows\ the\ score\ that\ the\ player\ has\ by\ the\ end\r\n\ \r\n\ @author\ Isaac\ Chan\r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=totalCoins
+comment1.target=GameOverWorld(int)
+comment2.params=coins
+comment2.target=void\ determineStars(int)
+numComments=3

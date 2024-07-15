@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CuttingBoard
+comment0.text=\r\n\ This\ actor\ takes\ an\ actor\ of\ the\ food\ class\ and\ determines\ whether\ the\ object\r\n\ is\ cut\ or\ not.\ If\ not,\ then\ the\ cutting\ board\ allows\ this\ object\ to\ be\ cut.\r\n\ Credit\ to\ Mr.\ Cohen\ for\ the\ stat\ bar\ actor\r\n\ Credit\ to\ Hiroyuki\ Terada\ for\ the\ cutting\ sounds\r\n\ \r\n\ @author\ Isaac\ Chan\ \r\n\ @version\ January\ 28,\ 2022\r\n
+comment1.params=
+comment1.target=CuttingBoard()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ chopping()
+comment5.params=isCut
+comment5.target=boolean\ isCuttingFood(boolean)
+comment6.params=
+comment6.target=boolean\ hasFood()
+numComments=7
